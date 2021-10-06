@@ -1,0 +1,1 @@
+let quantity = document.querySelector('#quantity').value;
